@@ -1,0 +1,14 @@
+Ensamble techniques - 
+All are for classification 
+
+Bootstrapping:
+https://www.youtube.com/watch?v=2Mg8QD0F1dQ
+
+
+Ada (adaptive )Boosting:
+https://www.youtube.com/watch?v=GM3CDQfQ4sw
+
+Randon Forest:
+To build large number of un pruned decission tree
+Stat Quest: Random forest part1
+

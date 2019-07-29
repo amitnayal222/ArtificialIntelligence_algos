@@ -1,0 +1,43 @@
+recommendation
+collaborative filtering - user based
+3. https://www.math.uci.edu/icamp/courses/math77b/lecture_12w/pdfs/Chapter%2002%20-%20Collaborative%20recommendation.pdf
+ content based recommendation
+2.
+https://www.ics.uci.edu/~welling/teaching/CS77Bwinter12/presentations/Slides_Recommender_Systems_Introduction_Version_Oct_2011/ppt/Chapter%2003%20-%20Content-based%20recommendation.ppt
+ Item based collaborative filtering
+https://ashokharnal.wordpress.com/2014/12/18/worked-out-example-item-based-collaborative-filtering-for-recommenmder-engine/
+
+from Gururajan Narasimhan to everyone:
+
+recommender system - content based and collaborative
+Radek Pel´anek
+https://www.fi.muni.cz/~xpelanek/PV254/slides/other-techniques.pdf
+https://ashokharnal.wordpress.com/2014/12/18/worked-out-example-item-based-collaborative-filtering-for-recommenmder-engine/
+from Gururajan Narasimhan to everyone:
+
+very good paper on the similarity measures
+https://pdfs.semanticscholar.org/943a/e455fafc3d36ae4ce68f1a60ae4f85623e2a.pdf
+
+
+
+https://ashokharnal.wordpress.com/2014/12/18/worked-out-example-item-based-collaborative-filtering-for-recommenmder-engine/
+
+
+
+Cosine similarity
+Jaccard similarity
+total 13 similarity
+
+
+Similarity matrix: irrespective of the user this matrix tell the similatrity of two products and with this we will find the missing values.
+
+
+-> first we make item to item similarity matrix by cosine dot product,
+ then, we take cofficoents of rating matric and multiply by coff. of item to item similarity matrix 
+
+
+https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+
+
+

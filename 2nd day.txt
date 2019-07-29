@@ -1,0 +1,9 @@
+
+www.cse.msu.edu/~cse960/Papers/MiningAssoc-AgrawalAS-VLDB94.pdf
+
+https://archive.ics.uci.edu/ml/datasets.php
+https://archive.ics.uci.edu/ml/datasets/Anonymous+Microsoft+Web+Data
+
+
+
+http://130.142.188.145:8080/qcbin

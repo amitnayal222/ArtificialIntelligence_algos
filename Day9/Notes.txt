@@ -1,0 +1,67 @@
+Time-Series
+
+
+Regression and time series analysis: 
+no concept of time in regression
+TSR(Time series analysis): time is crucial
+			   Time stamp is taken
+
+opposite of time series analysis is FDA(frequency domain analysis)
+FDA: How often you get good score or how often you get bad scaore
+FDA or spectral analysis
+
+Time series: an ordered sequence of values 
+ Univariate or multi variate /   discrete or continuous /linear or    non-linear/
+    time domain vs frequency domain
+
+Application of time series:
+   Economic forecasting
+   sales forecasting
+   budgetary analysis
+   stock market
+   yield projections
+   process and quality control
+   inventory studies
+   workload projections
+   Utility studies
+   census analysis
+
+
+Time series:
+	4 components:
+		trend
+		sesional
+		Random
+		Cylical
+
+Random walk or stochastic process: a model to predict a rando behaviour.
+example: Stock price
+
+predict in regression and classification 
+Forecast in time series
+
+For forecasting based on the analised and discribed data:
+
+Additive model: y(t)= T(t)+S(t)+C(t)+I(t)
+	* all componenets are different
+Multiplicative model:
+
+
+Model for tracking the trend componenet or smoothing:
+	
+RMSE(root mean square): means we are doing regression
+
+
+Exponential weights:
+	Weighted moving average:
+
+Noise component : White noise -> Irrespctive of frequency
+
+Gaussian White noise: 
+
+
+
+
+
+
+

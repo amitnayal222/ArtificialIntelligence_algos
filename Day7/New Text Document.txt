@@ -1,0 +1,16 @@
+http://www.physics.csbsju.edu/stats/box2.html
+# Generate a 500 sample univarate datasetr and print the outliers
+
+how to find outliers
+univariate- 
+multivariate- https://www.wikihow.com/Calculate-Outliers
+Data mining- http://hanj.cs.illinois.edu/bk3/bk3_slidesindex.htm
+
+
+outlier image recognition
+
+outlier detection or anomaly detection 
+	GLobal outliers- viswnathan chess player
+	Contextual outlier
+
+https://towardsdatascience.com/top-sources-for-machine-learning-datasets-bb6d0dc3378b
